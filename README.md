@@ -2,12 +2,12 @@
 <h1 align="center">Seja muito bem vindo(a) ao meu github 💙 </h1>
   
 <p align="center" style="margin: 0; padding:0">
-  <img width="1200x" style="margin: 0; padding:0" src="carbon(7).png" border="0">
+  <img width="900px" style="margin: 0; padding:0" src="carbon(7).png" border="0">
 </p>
 
 <p align="center" style="margin: 0; padding:0">
-  <img style="margin: 0; padding:0" width="472px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaetaen&hide=html&layout=compact&theme=radical" />
-  <img style="margin: 0; padding:0" width="472px" src="https://github-readme-stats.vercel.app/api?username=kaetaen&theme=radical&show_icons=true" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaetaen&hide=html&layout=compact&theme=radical" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=kaetaen&theme=radical&show_icons=true" />
 </p>
 
 
