@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Rubens 👨🏿‍💻 </h1>
-<h1 align="center">Seja muito bem vindo(a) ao meu github 💜 </h1>
+<h1 align="center">Seja muito bem vindo(a) ao meu GitHub 💜 </h1>
   
 <p align="center" style="margin: 0; padding:0">
   <img width="900px" style="margin: 0; padding:0" src="code.png" border="0">
