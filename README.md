@@ -19,9 +19,9 @@ function sobre_mim(Array $eu)
     echo 'Sou um desenvolvedor web apaixonado pelo mundo dev'.PHP_EOL;
 
     $eu['minha_stack'] = [
-        'PHP'         => 'Laravel',
+      'PHP'         => 'Laravel',
     	'JavaScript'  => 'NodeJS, ReactJS e React Native',
-    	'Outros'      => 'Python, SQL, HTML e CSS'
+    	'Outros'      => 'Python, SQL, HTML, CSS, Docker'
   	];
 
   	$eu['contatos'] = [
@@ -30,8 +30,8 @@ function sobre_mim(Array $eu)
     	'pagina_pessoal'  => 'https://kaiten.netlify.app/'
   	];
 
-  	$eu['aprendendo_atualmente'] = 'MySQL';
-  	$eu['fato_divertido'] = 'Sou quase um otaku ^_^';
+  	$eu['citacao_preferida'] = 'Não há conhecimento que não tenha valor.';
+    $eu['fato_divertido'] = 'Fanático por animes e afins XD'
 };
 
 -->
