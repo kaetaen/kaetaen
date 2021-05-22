@@ -1,8 +1,8 @@
 <h1 align="center">Olá, me chamo Rubens 👨🏿‍💻 </h1>
-<h1 align="center">Seja muito bem vindo(a) ao meu GitHub 💜 </h1>
+<h1 align="center">Seja muito bem vindo(a) ao meu GitHub ♥️ </h1>
   
 <p align="center" style="margin: 0; padding:0">
-  <img width="800px" style="margin: 0; padding:0" src="main(2).png" border="0">
+  <img width="800px" style="margin: 0; padding:0" src="main.png" border="0">
 </p>
 
 <p align="center" style="margin: 0; padding:0">
