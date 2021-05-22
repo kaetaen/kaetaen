@@ -5,10 +5,10 @@
   <img width="800px" style="margin: 0; padding:0" src="main.png" border="0">
 </p>
 
-<p align="center" style="margin: 0; padding:0">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaetaen&hide=html&layout=compact&theme=radical" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kaetaen&theme=radical&show_icons=true" />
-</p>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlineBastos&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/AlineBastos/github-readme-stats)
 
 
 <!--
