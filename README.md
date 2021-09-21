@@ -6,13 +6,16 @@
     <img alt="blog" src="https://img.shields.io/static/v1?label=Blog&message=dev.to/kaetaen&color=red&logo=dev.to&style=flat-square" />
   </a>
   <a href="https://www.linkedin.com/in/kaetaen">
-    <img alt="linkedln" src="https://img.shields.io/static/v1?label=LinkedIn&message=linkedin.com/in/kaetaen&logo=linkedin&color=blue&style=flat-square"/>
+    <img alt="linkedln" src="https://img.shields.io/static/v1?label=LinkedIn&message=/in/kaetaen&logo=linkedin&color=0F52BA&style=flat-square"/>
   </a>
   <a href="https://t.me/kaetaen">
-     <img alt="my telegram" src="https://img.shields.io/static/v1?color=26A5E4&label=Telegram&message=@kaetaen&logo=telegram&style=flat-square" />
+     <img alt="my telegram" src="https://img.shields.io/static/v1?color=0096FF&label=Telegram&message=@kaetaen&logo=telegram&style=flat-square" />
   </a>
   <a href="https://twitter.com/kaetaen">
-    <img alt="twitter" src="https://img.shields.io/static/v1?color=1DA1F2&logo=twitter&label=Twitter&message=@kaetaen&style=flat-square" />
+    <img alt="twitter" src="https://img.shields.io/static/v1?color=blue&logo=twitter&label=Twitter&message=@kaetaen&style=flat-square" />
+  </a>
+  <a href="mailto:rubensdossantos.dev@gmail.com">
+    <img alt="gmail" src="https://img.shields.io/static/v1?color=FF5733&logo=gmail&label=Email&message=rubensdossantos.dev&style=flat-square" />
   </a>
 </p>
  
