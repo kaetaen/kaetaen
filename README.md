@@ -14,9 +14,6 @@
   <a href="https://twitter.com/kaetaen">
     <img alt="twitter" src="https://img.shields.io/static/v1?color=1DA1F2&logo=twitter&label=Twitter&message=@kaetaen&style=flat-square" />
   </a>
-  <a href="https://github.com/kaetaen">
-    <img alt="github" src="https://img.shields.io/static/v1?color=181717&label=GitHub&message=kaetaen&logo=github&style=flat-square" />
-  </a>
 </p>
  
 <p align="center" style="margin: 0; padding:0">
