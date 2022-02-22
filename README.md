@@ -20,7 +20,7 @@
 </p>
  
 <p align="center" style="margin: 0; padding:0">
-  <img width="800px" style="margin: 0; padding:0" src="main.png" border="0">
+  <img width="800px" style="margin: 0; padding:0" src="main.gif" border="0">
 </p>
 
 <p align="center" style="margin: 0; padding:0">
