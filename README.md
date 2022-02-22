@@ -1,6 +1,4 @@
-<h1 align="center">Olá, me chamo Rubens 👨🏿‍💻 </h1>
-<h1 align="center">Seja muito bem vindo(a) ao meu GitHub ♥️ </h1>
- 
+
 <p align="center">
   <a href="https://dev.to/kaetaen">
     <img alt="blog" src="https://img.shields.io/static/v1?label=Blog&message=dev.to/kaetaen&color=red&logo=dev.to&style=flat-square" />
