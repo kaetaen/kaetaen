@@ -1,3 +1,6 @@
+<p align="center" style="margin: 0; padding:0">
+  <img width="800px" style="margin: 0; padding:0" src="main.gif" border="0">
+</p>
 
 <p align="center">
   <a href="https://dev.to/kaetaen">
@@ -15,10 +18,6 @@
   <a href="mailto:rubensdossantos.dev@gmail.com">
     <img alt="gmail" src="https://img.shields.io/static/v1?color=FF5733&logo=gmail&label=Email&message=rubensdossantos.dev&style=flat-square" />
   </a>
-</p>
- 
-<p align="center" style="margin: 0; padding:0">
-  <img width="800px" style="margin: 0; padding:0" src="main.gif" border="0">
 </p>
 
 <p align="center" style="margin: 0; padding:0">
