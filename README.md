@@ -2,7 +2,9 @@
   <img width="800px" style="margin: 0; padding:0" src="main.gif" border="0">
 </p>
 
-<p align="center">
+## Networks
+
+<p align="left">
   <a href="https://dev.to/kaetaen">
     <img alt="blog" src="https://img.shields.io/static/v1?label=Blog&message=dev.to/kaetaen&color=red&logo=dev.to&style=flat-square" />
   </a>
@@ -20,13 +22,9 @@
   </a>
 </p>
 
-<p align="center" style="margin: 0; padding:0">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaetaen&hide=html&layout=compact&theme=codeSTACKr" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kaetaen&theme=codeSTACKr&show_icons=true" />
-</p>
+## Technologies
 
-
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80" height="80"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"  width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  width="80" height="80"/>
@@ -49,4 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"  width="80" height="80"/>
 </p>
 
+## Github Status
 
+<p align="left" style="margin: 0; padding:0">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaetaen&hide=html&layout=compact&theme=codeSTACKr" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kaetaen&theme=codeSTACKr&show_icons=true" />
+</p>
