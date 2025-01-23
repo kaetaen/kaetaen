@@ -7,7 +7,7 @@
 
 - 📝 I occasionally write articles on [https://dev.to/kaetaen](https://dev.to/kaetaen)
 
-- 💬 Ask me about **PHP, Javascript, Python**
+- 💬 Ask me about **Python, Javascript, GO and PHP**
 
 - 📫 How to reach me **rubensdossantos.dev@gmail.com**
 
