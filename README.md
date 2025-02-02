@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/kaetaen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaetaen" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Skills:</h3>
 <a>
    <img src="https://skillicons.dev/icons?i=php,go,python,javascript,laravel,nodejs,flask,react,docker,linux,mysql" />
 </a>
