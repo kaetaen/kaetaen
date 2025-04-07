@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rubens dos Santos</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Golang and your ecosystem**
-
 - 👨‍💻 All of my projects are available here, on GitHub.
 
 - 📝 I occasionally write articles on [https://dev.to/kaetaen](https://dev.to/kaetaen)
 
-- 💬 Ask me about **Python, Javascript, GO and PHP**
+- 💬 Ask me about **Python, Javascript, PHP, GO**
 
 - 📫 How to reach me **rubensdossantos.dev@gmail.com**
 
@@ -21,5 +19,5 @@
 
 <h3 align="left">Skills:</h3>
 <a>
-   <img src="https://skillicons.dev/icons?i=php,go,python,javascript,laravel,nodejs,flask,react,docker,linux,mysql" />
+   <img src="https://skillicons.dev/icons?i=python,go,php,javascript,fastapi,flask,laravel,nodejs,react,gcp,docker,linux,mysql" />
 </a>
